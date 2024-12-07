@@ -1,0 +1,16 @@
+D:\C# dersleri\Graphic\Graphic\bin\Debug\net8.0-windows\Graphic.exe
+D:\C# dersleri\Graphic\Graphic\bin\Debug\net8.0-windows\Graphic.deps.json
+D:\C# dersleri\Graphic\Graphic\bin\Debug\net8.0-windows\Graphic.runtimeconfig.json
+D:\C# dersleri\Graphic\Graphic\bin\Debug\net8.0-windows\Graphic.dll
+D:\C# dersleri\Graphic\Graphic\bin\Debug\net8.0-windows\Graphic.pdb
+D:\C# dersleri\Graphic\Graphic\obj\Debug\net8.0-windows\Graphic.Form1.resources
+D:\C# dersleri\Graphic\Graphic\obj\Debug\net8.0-windows\Graphic.csproj.GenerateResource.cache
+D:\C# dersleri\Graphic\Graphic\obj\Debug\net8.0-windows\Graphic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Graphic\Graphic\obj\Debug\net8.0-windows\Graphic.AssemblyInfoInputs.cache
+D:\C# dersleri\Graphic\Graphic\obj\Debug\net8.0-windows\Graphic.AssemblyInfo.cs
+D:\C# dersleri\Graphic\Graphic\obj\Debug\net8.0-windows\Graphic.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Graphic\Graphic\obj\Debug\net8.0-windows\Graphic.dll
+D:\C# dersleri\Graphic\Graphic\obj\Debug\net8.0-windows\refint\Graphic.dll
+D:\C# dersleri\Graphic\Graphic\obj\Debug\net8.0-windows\Graphic.pdb
+D:\C# dersleri\Graphic\Graphic\obj\Debug\net8.0-windows\Graphic.genruntimeconfig.cache
+D:\C# dersleri\Graphic\Graphic\obj\Debug\net8.0-windows\ref\Graphic.dll
